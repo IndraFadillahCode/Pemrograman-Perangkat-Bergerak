@@ -1,6 +1,6 @@
 # warung_ajib
 
-A new Flutter project.
+Project Mid term of WarungAjib
 
 ## Getting Started
 
